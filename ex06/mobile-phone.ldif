@@ -1,0 +1,4 @@
+dn:uid=kzouggar,ou=candidate,ou=people,dc=1337,dc=ma
+changetype: modify
+replace: mobile
+mobile: 0628807581

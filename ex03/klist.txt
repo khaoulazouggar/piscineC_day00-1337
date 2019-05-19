@@ -1,0 +1,5 @@
+Credentials cache: API:1716
+        Principal: kzouggar@1337.MA
+
+  Issued                Expires               Principal
+Jan  7 20:55:27 2019  Jan  8 20:55:27 2019  krbtgt/1337.MA@1337.MA
